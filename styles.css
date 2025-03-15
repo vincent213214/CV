@@ -86,9 +86,8 @@ html {
     align-items: center;
     padding: 100px 20px;
     background: #fff;
-    width: 100%;
-    box-sizing: border-box; 
 }
+
 .About-Me-content {
     flex: 1;
     padding: 20px;
