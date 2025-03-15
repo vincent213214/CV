@@ -92,7 +92,7 @@ html {
     flex: 0.26;
     padding: 20px;
 }
-
+/* 
 .About-Me-image {
     flex: 0.26;
     text-align: center;
@@ -101,7 +101,7 @@ html {
 .About-Me-image img {
     max-width: 100%;
     border-radius: 10px;
-}
+} */
 
 .grid-01 {
     display: grid;
@@ -196,7 +196,7 @@ html {
     padding: 20px;
 }
 
-.EDU-image {
+/* .EDU-image {
     flex: 0.6;
     text-align: center;
 }
@@ -204,7 +204,7 @@ html {
 .EDU-image img {
     max-width: 100%;
     border-radius: 10px;
-}
+} */
 
 .line {
     display: flex;
@@ -223,16 +223,6 @@ html {
 .Work-content {
     flex: 1;
     padding: 20px;
-}
-
-.Work-image {
-    flex: 1;
-    text-align: center;
-}
-
-.Work-image img {
-    max-width: 100%;
-    border-radius: 10px;
 }
 
 .line {
@@ -350,4 +340,3 @@ body::after {
     from { opacity: 0; }
     to { opacity: 1; }
 }
-
