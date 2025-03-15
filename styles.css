@@ -86,12 +86,14 @@ html {
     align-items: center;
     padding: 100px 20px;
     background: #fff;
+    width: 100%;
+    box-sizing: border-box; 
 }
-
 .About-Me-content {
-    flex: 0.26;
+    flex: 1;
     padding: 20px;
 }
+
 /* 
 .About-Me-image {
     flex: 0.26;
@@ -195,6 +197,7 @@ html {
     flex: 1;
     padding: 20px;
 }
+
 
 /* .EDU-image {
     flex: 0.6;
