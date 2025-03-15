@@ -20,7 +20,7 @@ header {
 header nav ul {
     list-style: none;
     display: flex;
-    justify-content: space-around;
+    justify-content: right;
     align-items: center;
 }
 
